@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello there! My name is Mathias. I am from Buenos Aires, Argentina, and I am a programming student.
+
 <!--
 **mathxlat/mathxlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
