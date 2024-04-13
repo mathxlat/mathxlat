@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mathias, a student of Technical Superior in Programming at the Universidad Tecnológica Nacional of Buenos Aires, Argentina. I love creating and innovating in software development. 
+I'm Mathías, programmer and software developer. Programming is my passion, and I am curious to explore all programming languages. I enjoy building solutions using best practices. Currently, I'm studying at UTN, where I continue to expand my knowledge and skills in programming.
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,cpp,c,react,vue,angular,html,css,nodejs,express,nestjs,git,github,graphql,mysql,postgres,sqlite,mongodb,vscode,vite)](https://skillicons.dev)
 
