@@ -4,4 +4,8 @@ I'm Mathias, a student of Technical Superior in Programming at the Universidad T
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,cpp,c,react,vue,angular,html,css,nodejs,express,nestjs,git,github,graphql,mysql,postgres,sqlite,mongodb,vscode,vite)](https://skillicons.dev)
 
-Reach out to me at <a href="mailto:mathiezelat@gmail.com">mathiezelat@gmail.com</a> or connect with me on <a href="https://linkedin.com/in/mathxlat" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+## Contact 
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mathiezelat@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mathxlat)
+
