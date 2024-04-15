@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mathias, programmer and software developer. Programming is my passion, and I am curious to explore all programming languages. I enjoy building solutions using best practices. Currently, I'm studying at UTN, where I continue to expand my knowledge and skills in programming.
+I'm Mathias, programmer and software developer. Programming is my passion, and I'm curious to explore programming languages. I enjoy building solutions using best practices. Currently, I'm studying at UTN, where I continue to expand my knowledge and skills in programming.
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,cpp,c,react,vue,angular,html,css,nodejs,express,nestjs,git,github,graphql,mysql,postgres,sqlite,mongodb,vscode,vite)](https://skillicons.dev)
 
