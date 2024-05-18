@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 I'm Mathias, software developer. Programming is my passion, and I'm curious to explore different programming languages. I enjoy building solutions using best practices. Currently, I'm studying at UTN, where I continue to expand my knowledge and skills in programming.
 
