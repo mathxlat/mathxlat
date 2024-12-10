@@ -15,6 +15,3 @@ I'm Mathias, a **software developer** who enjoys learning about **programming**,
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mathxlat&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&disable_animations=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathxlat&layout=compact&langs_count=10&hide_title=true&card_width=320&hide_progress=true&hide_border=true&theme=transparent&disable_animations=true" />
-</a>
