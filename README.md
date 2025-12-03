@@ -9,9 +9,3 @@ I'm Mathias, a **software developer** who enjoys learning about **programming**,
 🤝 Soft Skills: **Teamwork**, **Problem-solving**, **Adaptability**, and **Communication**. <br>
 📫 Reach me at: [mathiezelat@gmail.com](mailto:mathiezelat@gmail.com) <br>
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mathxlat) <br>
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mathxlat&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&disable_animations=true" />
-</a>
