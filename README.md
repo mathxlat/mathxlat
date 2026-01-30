@@ -7,5 +7,5 @@ I'm Mathias, a **software developer** who enjoys learning about **programming**,
 🎯 Focused on building solutions with **best practices** and exploring **new challenges**. <br>
 🛠️ Tools I use: **Visual Studio Code**, **IntelliJ**, **NetBeans**, **Git**, **GitHub**, **Postman**, and more. <br>
 🤝 Soft Skills: **Teamwork**, **Problem-solving**, **Adaptability**, and **Communication**. <br>
-📫 Reach me at: [mathiezelat@gmail.com](mailto:mathiezelat@gmail.com) <br>
+📫 Reach me at: [mathias.latronico@gmail.com](mailto:mathias.latronico@gmail.com) <br>
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mathxlat) <br>
